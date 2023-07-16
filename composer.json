@@ -7,7 +7,7 @@
   ],
   "type": "library",
   "homepage": "https://github.com/atiabjobayer/php-graph-sdk",
-  "license": "Facebook Platform",
+  "license": "MIT",
   "authors": [
     {
       "name": "Atiab Jobayer",
